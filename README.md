@@ -51,10 +51,11 @@
 ---
 
 ## 📷 Screenshots
+### 🎯 Real-Time Detection
+<img src="assests/Picture1.jpg" width="350">
 
-_Add relevant screenshots of the UI, detection results, and interaction logs here under the `/assets` folder._
-
----
+### 🎙️ Voice Command with Wake Word
+<img src="assests/Picture3.jpg" width="350">
 
 ## 🚀 How to Run
 
